@@ -1,7 +1,7 @@
 # Hi!, Welcome to my Github profile   👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/frkndnz)
-[![twitter](https://img.shields.io/twitter/url?color=informational&label=L%C4%B1nkedin&logo=linkedin&link=link)](https://www.linkedin.com/in/furkandeniz1/)
+[![twitter](https://img.shields.io/twitter/url?color=informational&label=L%C4%B1nkedin&logo=linkedin&url=https://www.linkedin.com/in/furkandeniz1/)](https://www.linkedin.com/in/furkandeniz1/)
 
 
 
