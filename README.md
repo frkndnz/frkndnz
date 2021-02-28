@@ -1,6 +1,6 @@
 # Hi!, Welcome to my Github profile   👋   
                              
-[![1](https://github-readme-stats.vercel.app/api/top-langs/?username=frkndnz&theme=blue-green)](https://github.com/frkndnz) [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/frkndnz)[![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkandeniz1/)       
+[![1](https://github-readme-stats.vercel.app/api/top-langs/?username=frkndnz&theme=blue-green)](https://github.com/frkndnz) [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/frkndnz)  [![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkandeniz1/)       
 <!--
 **frkndnz/frkndnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
