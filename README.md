@@ -1,6 +1,6 @@
 ### Hi!, Welcome to my Github profile  👋
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/frkndnz)
-                      ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+                                                                                  ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
 <!--
 **frkndnz/frkndnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
