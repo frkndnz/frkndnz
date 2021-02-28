@@ -1,7 +1,11 @@
-  ### Hi!, Welcome to my Github profile  👋                               
+### Hi!, Welcome to my Github profile  👋 <enter>  ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)                         
+                                          
  
+ 
+ 
+----
                                                          
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)                                                              
+                                                              
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/frkndnz)  
 
 <!--
