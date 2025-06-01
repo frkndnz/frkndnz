@@ -1,5 +1,5 @@
 # Hi!, Welcome to my Github profile   👋   
-I'm a game developer. I also develop some web projects.
+I'm a software developer | .Net | React
 
 ## About Me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/frkndnz)  [![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkandeniz1/)    
